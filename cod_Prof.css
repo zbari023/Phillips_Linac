@@ -1,0 +1,30 @@
+.profadd {
+    background-color: rgb(117, 199, 236);
+    width: 45%;
+    text-align: center;
+    float: left;
+    border-radius: 50px;
+
+}
+
+.profadd img {
+    width: 49%;
+    margin: 20px 20px 20px 20px;
+   
+}
+
+.profadd h4 {
+    font-family: 'Prosto One', cursive;
+    color: rgb(10, 29, 204);
+    font-size: 50px;
+
+
+}
+
+.profadd a {
+    display: block;
+    text-align: center;
+
+}
+
+

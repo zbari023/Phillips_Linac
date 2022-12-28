@@ -1,0 +1,46 @@
+body {
+    font-family: 'Prosto One', cursive;
+    color: rgb(46, 3, 3)
+}
+
+.codeblue {
+    background-color: rgb(87, 121, 108);
+    display: inline-block;
+    margin: 20px 20px 20px 100px;
+    padding: 20px 20px 20px 100px;
+    border: 6px solid springgreen;
+    border-radius: 160px;
+    box-shadow: -67px -5px 106px 8px rgba(45,125,19,0.94);
+}
+
+.codehell {
+    background-color: plum;
+    display: inline-block;
+    margin: 20px 20px 20px 100px;
+    padding: 20px 20px 20px 100px;
+    border: 6px solid springgreen;
+    border-radius: 160px;
+    box-shadow: -67px -5px 106px 8px rgba(45,125,19,0.94);
+}
+
+.divvoil {
+    background-color: #00FFFF;
+    display: inline-block;
+    margin: 20px 20px 20px 100px;
+    padding: 20px 20px 20px 100px;
+    border: 6px solid springgreen;
+    border-radius: 160px;
+    box-shadow: -67px -5px 106px 8px rgba(45,125,19,0.94);
+}
+
+.imgdiv img {
+    background-color: paleturquoise;
+    margin: 20px 20px 20px 100px;
+    padding: 20px 20px 20px 100px;
+    border: 6px solid springgreen;
+    border-radius: 160px;
+    box-shadow: -67px -5px 106px 8px rgba(45,125,19,0.94);
+}
+.imgdiv {
+    background-color: silver
+}
